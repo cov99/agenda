@@ -1,0 +1,12 @@
+# git ignore
+blog/secret.json
+#
+blog/applications/users/migrations/*
+
+venv
+
+static
+
+__pycache__/*
+
+*.pyc
